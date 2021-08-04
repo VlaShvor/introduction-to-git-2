@@ -1,2 +1,4 @@
 Some text will be here.
-Chenged from master after merge !!!
+Chenged from master after merge !!!  FROM HEAD
+Absolutly different from masster FROM FIRST
+What will happen? FROM FIRST
